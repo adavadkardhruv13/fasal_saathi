@@ -1,0 +1,13 @@
+name,location,capacity,available,available_from,availability_duration,contact,storage_type,storage_image,price
+Mahadev Storage Services,"D-395, M.I.D.C. Ind Estate,
+Village Kukshet, Turbhe,
+Navi Mumbai – 400705.",100,Yes,,9,930284102,Hot,https://res.cloudinary.com/dowpys11p/image/upload/v1/media/images/storage1_qy2i86,2100
+Shekhar Storage House,Nehru Nagar,900,Yes,,8,930286102,Cold,https://res.cloudinary.com/dowpys11p/image/upload/v1/media/images/storage2_r7omac,2000
+Ganpati Grain Stores,Bhilai 3,1100,Yes,,7,930864102,Hot,https://res.cloudinary.com/dowpys11p/image/upload/v1/media/images/storage1_qy2i86,3100
+Devi Storage,Raipur ,500,Yes,,6,902864102,Cold,https://res.cloudinary.com/dowpys11p/image/upload/v1/media/images/storage2_r7omac,1000
+Kartikeya Services,Kohka,600,Yes,,5,930286410,Hot,https://res.cloudinary.com/dowpys11p/image/upload/v1/media/images/storage1_qy2i86,4000
+Kanha Cold Storages,Civic Center,444,Yes,,6,930286416,Cold,https://res.cloudinary.com/dowpys11p/image/upload/v1/media/images/storage2_r7omac,2500
+Shashank Storage House,Sector 10,555,Yes,,7,932864102,Hot,https://res.cloudinary.com/dowpys11p/image/upload/v1/media/images/storage1_qy2i86,2600
+Sanskriti Storages,"Durg
+",666,Yes,,8,930286402,Cold,https://res.cloudinary.com/dowpys11p/image/upload/v1/media/images/storage2_r7omac,3500
+Sanskaar Services,Delhi,777,Yes,,9,930286402,Hot,https://res.cloudinary.com/dowpys11p/image/upload/v1/media/images/storage1_qy2i86,1500

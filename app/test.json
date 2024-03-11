@@ -1,0 +1,27 @@
+[ /* endpoint: http://127.0.0.1:8000/api/storage/ 
+     for showing storage details */
+    {
+        "id": 3,
+        "name": "Banti Storages",
+        "location": "Sector 9, near BSP hospital",
+        "capacity": 100,
+        "available": true,
+        "availability_duration": 2,
+        "contact": 9329020378,
+        "storage_type": "cold",
+        "storage_image": null, // this is be in url formate
+        "price": 0,
+        "available_from": "2024-03-03"
+]
+/* endpoint: http://127.0.0.1:8000/api/crops/wheat/
+   for showing details of know your crop section */
+{
+    "id": 1,
+    "crop_image": null, // this is be in url formate
+    "season": "October to December",
+    "name": "wheat",
+    "type": "rabi",
+    "month_of_harvest": "February to May",
+    "medicines_pesticides": "Pyrethroids",
+    "soil": "clay loam"
+}

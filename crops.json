@@ -1,0 +1,180 @@
+{
+    "id": 73,
+    "crop_image": "https://res.cloudinary.com/dowpys11p/image/upload/v1/media/images/watermelon_ktnq0f",
+    "season": "May to June",
+    "name": "Watermelon",
+    "type": "Zaid",
+    "month_of_harvest": "March-July",
+    "medicines_pesticides": "",
+    "soil": "Prefers well-drained sandy loam or loamy soils."
+},
+{
+    "id": 72,
+    "crop_image": "https://res.cloudinary.com/dowpys11p/image/upload/v1/media/images/cucumber_lmofnm",
+    "season": "April to June",
+    "name": "Cucumber",
+    "type": "Zaid",
+    "month_of_harvest": "March-July",
+    "medicines_pesticides": "",
+    "soil": "Grows well in well-drained sandy loam or loamy soils."
+},
+{
+    "id": 71,
+    "crop_image": "https://res.cloudinary.com/dowpys11p/image/upload/v1/media/images/soyabeans_bxbxwf",
+    "season": "April to June",
+    "name": "Soybean",
+    "type": "Kharif",
+    "month_of_harvest": "September-October",
+    "medicines_pesticides": "",
+    "soil": "Thrive in well-drained loamy soils with good fertility."
+},
+{
+    "id": 70,
+    "crop_image": "https://res.cloudinary.com/dowpys11p/image/upload/v1/media/images/groundnut_amhbud",
+    "season": "April to June",
+    "name": "Groundnut",
+    "type": "Kharif",
+    "month_of_harvest": "September-October",
+    "medicines_pesticides": "",
+    "soil": "Prefers well-drained sandy or loamy soils."
+},
+{
+    "id": 69,
+    "crop_image": "https://res.cloudinary.com/dowpys11p/image/upload/v1/media/images/jute_vv4ost",
+    "season": "March to June",
+    "name": "Jute",
+    "type": "Kharif",
+    "month_of_harvest": "September-October",
+    "medicines_pesticides": "",
+    "soil": "Grows well in fertile alluvial soils, particularly in areas with adequate water availability."
+},
+{
+    "id": 68,
+    "crop_image": "https://res.cloudinary.com/dowpys11p/image/upload/v1/media/images/cotton_e6zcae",
+    "season": "March to May",
+    "name": "Cotton",
+    "type": "Kharif",
+    "month_of_harvest": "September-October",
+    "medicines_pesticides": "",
+    "soil": "well-drained loamy soils."
+},
+{
+    "id": 67,
+    "crop_image": "https://res.cloudinary.com/dowpys11p/image/upload/v1/media/images/urad_oearnn",
+    "season": "April to August",
+    "name": "Urad",
+    "type": "Kharif",
+    "month_of_harvest": "September-October",
+    "medicines_pesticides": "",
+    "soil": "Loam or slightly heavy soils"
+},
+{
+    "id": 66,
+    "crop_image": "https://res.cloudinary.com/dowpys11p/image/upload/v1/media/images/moong_ewgw5s",
+    "season": "April to June",
+    "name": "Moong",
+    "type": "Kharif",
+    "month_of_harvest": "September-October",
+    "medicines_pesticides": "",
+    "soil": "Loam or slightly heavy soils"
+},
+{
+    "id": 65,
+    "crop_image": "https://res.cloudinary.com/dowpys11p/image/upload/v1/media/images/tur_if3a4c",
+    "season": "June to August",
+    "name": "Tur",
+    "type": "Kharif",
+    "month_of_harvest": "September-October",
+    "medicines_pesticides": "Metasystox, Nuvacrone 40 EC",
+    "soil": "Sandy loam to Clayey loam soils, very deep, well drained."
+},
+{
+    "id": 64,
+    "crop_image": "https://res.cloudinary.com/dowpys11p/image/upload/v1/media/images/bajra_t9gr1u",
+    "season": "June to August",
+    "name": "Bajra",
+    "type": "Kharif",
+    "month_of_harvest": "September-October",
+    "medicines_pesticides": "",
+    "soil": "loamy soils"
+},
+{
+    "id": 63,
+    "crop_image": "https://res.cloudinary.com/dowpys11p/image/upload/v1/media/images/jowar_ze09yd",
+    "season": "June to August",
+    "name": "Jowar",
+    "type": "Kharif",
+    "month_of_harvest": "September-October",
+    "medicines_pesticides": "Agrosan GN, Thiran",
+    "soil": "Clayey loam soil, rich in humus, efficient drainage."
+},
+{
+    "id": 62,
+    "crop_image": "https://res.cloudinary.com/dowpys11p/image/upload/v1/media/images/maize_enmwh7",
+    "season": "April to June",
+    "name": "Maize",
+    "type": "Kharif",
+    "month_of_harvest": "September-October",
+    "medicines_pesticides": "",
+    "soil": "loamy soils"
+},
+{
+    "id": 61,
+    "crop_image": "https://res.cloudinary.com/dowpys11p/image/upload/v1/media/images/rice_litmio",
+    "season": "April to June",
+    "name": "Rice",
+    "type": "Kharif",
+    "month_of_harvest": "September-October",
+    "medicines_pesticides": "",
+    "soil": "loamy soils"
+},
+{
+    "id": 60,
+    "crop_image": "https://res.cloudinary.com/dowpys11p/image/upload/v1/media/images/mustard_lgvedc",
+    "season": "October to February",
+    "name": "Mustard",
+    "type": "Rabi",
+    "month_of_harvest": "April-June",
+    "medicines_pesticides": "Thiram, Rhizobium",
+    "soil": "Light to heavy loamy soils, good drainage."
+},
+{
+    "id": 59,
+    "crop_image": "https://res.cloudinary.com/dowpys11p/image/upload/v1/media/images/gram_tdxbfc",
+    "season": "October to December",
+    "name": "Gram",
+    "type": "Rabi",
+    "month_of_harvest": "April-June",
+    "medicines_pesticides": "Thiram, Rhizobium",
+    "soil": "well-drained loamy soils."
+},
+{
+    "id": 58,
+    "crop_image": "https://res.cloudinary.com/dowpys11p/image/upload/v1/media/images/peas_jtau1e",
+    "season": "March to May",
+    "name": "Peas",
+    "type": "Rabi",
+    "month_of_harvest": "April-June",
+    "medicines_pesticides": "Rhizium",
+    "soil": "Thrive in well-drained, loamy soils with good organic matter."
+},
+{
+    "id": 57,
+    "crop_image": "https://res.cloudinary.com/dowpys11p/image/upload/v1/media/images/barley_dirpwu",
+    "season": "September to November",
+    "name": "Barley",
+    "type": "Rabi",
+    "month_of_harvest": "April-June",
+    "medicines_pesticides": "Vitavax, Bavistin, Thiram",
+    "soil": "Sandy to moderately heavy loam soil."
+},
+{
+    "id": 56,
+    "crop_image": "https://res.cloudinary.com/dowpys11p/image/upload/v1/media/images/wheat_gebwnu",
+    "season": "September to November",
+    "name": "Wheat",
+    "type": "Rabi",
+    "month_of_harvest": "April-June",
+    "medicines_pesticides": "Vitavax, MYCORe, DHANUSTIN",
+    "soil": "Moderate water holding capacity, free from coarse sand, gravel, stones, have a uniform texture and should be deep."
+}
