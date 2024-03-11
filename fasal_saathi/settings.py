@@ -59,9 +59,9 @@ SWAGGER_SETTINGS = {
 }
 
 CLOUDINARY_STORAGE = {
-    'CLOUD_NAME': 'dowpys11p',
-    'API_KEY': '423564386837181',
-    'API_SECRET': 'BEnkSHoKmsvTCpaywGgOodsE2Wk',
+    'CLOUD_NAME': 'CLOUD_NAME',
+    'API_KEY': 'API_KEY',
+    'API_SECRET': 'API_SECRET',
 }
 
 DEFAULT_FILE_STORAGE = 'cloudinary_storage.storage.MediaCloudinaryStorage'
@@ -107,11 +107,11 @@ WSGI_APPLICATION = 'fasal_saathi.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'fassal_sathi',
-        'USER': 'postgres',
-        'PASSWORD': 'dhruv13',
-        'HOST': 'localhost',  # Set to the PostgreSQL server's hostname or IP address
-        'PORT': '5432',       # Set to the PostgreSQL server's port
+        'NAME': 'NAME',
+        'USER': 'USER',
+        'PASSWORD': 'PASSWORD',
+        'HOST': 'HOST',  # Set to the PostgreSQL server's hostname or IP address
+        'PORT': 'PORT',       # Set to the PostgreSQL server's port
     }
 }
 
