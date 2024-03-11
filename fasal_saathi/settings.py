@@ -43,6 +43,7 @@ INSTALLED_APPS = [
     'cloudinary_storage',
     'django.contrib.staticfiles',
     'cloudinary',
+    'corsheaders', 
 ]
 
 SWAGGER_SETTINGS = {
@@ -59,9 +60,9 @@ SWAGGER_SETTINGS = {
 }
 
 CLOUDINARY_STORAGE = {
-    'CLOUD_NAME': 'CLOUD_NAME',
-    'API_KEY': 'API_KEY',
-    'API_SECRET': 'API_SECRET',
+    'CLOUD_NAME': 'dowpys11p',
+    'API_KEY': '423564386837181',
+    'API_SECRET': 'BEnkSHoKmsvTCpaywGgOodsE2Wk',
 }
 
 DEFAULT_FILE_STORAGE = 'cloudinary_storage.storage.MediaCloudinaryStorage'
@@ -76,6 +77,7 @@ MIDDLEWARE = [
     'django.contrib.auth.middleware.AuthenticationMiddleware',
     'django.contrib.messages.middleware.MessageMiddleware',
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
+    'corsheaders.middleware.CorsMiddleware',
 ]
 
 ROOT_URLCONF = 'fasal_saathi.urls'
@@ -107,11 +109,11 @@ WSGI_APPLICATION = 'fasal_saathi.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'NAME',
-        'USER': 'USER',
-        'PASSWORD': 'PASSWORD',
-        'HOST': 'HOST',  # Set to the PostgreSQL server's hostname or IP address
-        'PORT': 'PORT',       # Set to the PostgreSQL server's port
+        'NAME': 'fassal_sathi',
+        'USER': 'postgres',
+        'PASSWORD': 'dhruv13',
+        'HOST': 'localhost',  # Set to the PostgreSQL server's hostname or IP address
+        'PORT': '5432',       # Set to the PostgreSQL server's port
     }
 }
 
@@ -155,3 +157,8 @@ STATIC_URL = 'static/'
 # https://docs.djangoproject.com/en/5.0/ref/settings/#default-auto-field
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
+
+CORS_ALLOWED_ORIGINS = [
+    "http://localhost:3000", 
+    "http://localhost:5173", 
+]
