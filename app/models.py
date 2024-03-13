@@ -23,7 +23,7 @@ class StorageSpace(models.Model):
     availability_duration  = models.IntegerField( default = '1', blank = True)
     contact = models.IntegerField(max_length = 14, default=0)
     storage_type = models.CharField(max_length=20, null=True, blank=True)
-    storage_image = models.CharField(max_length = 1000, default='default_image_path')
+    storage_image = models.ImageField(max_length = 1000, default='default_image_path')
     price = models.IntegerField(default = '0', blank = True)
 
     def __str__(self):

@@ -12,6 +12,7 @@ from datetime import datetime, date
 from django.db.models import Q
 from django.shortcuts import get_list_or_404
 
+
 # Create your views here.
 
 

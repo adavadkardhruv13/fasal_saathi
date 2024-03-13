@@ -7,9 +7,11 @@ from rest_framework.decorators import api_view
 from rest_framework.parsers import JSONParser, MultiPartParser
 from rest_framework.response import Response
 import csv
+from django.views.decorators.http import require_http_methods
+
 
     
-@api_view(['GET'])
+@require_http_methods(['GET'])
 def cropInfo(request, crop_name):
     if request.method == 'GET':
         crop = Crop.objects.get(name=crop_name)
