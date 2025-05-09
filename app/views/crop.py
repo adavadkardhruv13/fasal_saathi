@@ -1,4 +1,4 @@
-import pandas as pd
+# import pandas as pd
 from django.shortcuts import render
 from django.http import JsonResponse
 from app.models import  Crop
